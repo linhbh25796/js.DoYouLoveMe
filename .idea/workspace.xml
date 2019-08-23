@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e5ff141-cc1d-4d6f-a9b7-4b9394332692" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CalculatorEasy2/.idea/CalculatorEasy2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEasy2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEasy2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEasy2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEasy2/calculator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/DoYouLoveMe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodFastCheap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodFastCheap/.idea/GoodFastCheap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodFastCheap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodFastCheap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodFastCheap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GoodFastCheap/goodFastCheap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BienDuLieuToanTu/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BienDuLieuToanTu/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/calculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/calculator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DoiTien/ChuyenDoiTien.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DoiTien/ChuyenDoiTien.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1PoVrg122WIhEdj7frJIA7m7tsX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e5ff141-cc1d-4d6f-a9b7-4b9394332692" name="Default Changelist" comment="" />
+      <created>1566540636039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566540636039</updated>
+      <workItem from="1566540637155" duration="1612000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
